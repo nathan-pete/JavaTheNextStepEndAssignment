@@ -76,7 +76,7 @@ In this section, the expected input and output of the application will be detail
 | Enter the correct answer.                                                               | Verify that the earned points are updated correctly.                                    |
 
 ## Conclusion:
-his start document outlines the problem description, input and output specifications, calculations involved, class
+This start document outlines the problem description, input and output specifications, calculations involved, class
 diagram, and a comprehensive test plan with specific test cases for the digital test application. The provided test
 cases cover various scenarios to ensure the correctness and reliability of the implemented code.
 
