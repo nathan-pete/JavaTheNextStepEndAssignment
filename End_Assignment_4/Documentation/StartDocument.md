@@ -1,10 +1,11 @@
 
 # Start Document
- **Student Name:** `Name` <br>
- **Student Number:** `number` <br>
- **Course:** `Java - The Next Step` <br>
- **Assignment:** `End Assignment 4 - Digital Test`<br>
- **Date:** `10-January-2024`
+**Student Name:** `Nathan P. Pais D'costa` <br>
+**Student Number:** `5045800` <br>
+**Course:** `Java - The Next Step` <br>
+**Assignment:** `End Assignment 4 - Digital Test`<br>
+**Date:** `10-January-2024`
+
 
 ## Description:
 To save the environment, NHL Stenden wants to digitalize their testing method.
