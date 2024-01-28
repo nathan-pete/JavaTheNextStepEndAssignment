@@ -4,7 +4,7 @@
 **Student Number:** `5045800` <br>
 **Course:** `Java - The Next Step` <br>
 **Assignment:** `End Assignment 4 - Digital Test`<br>
-**Date:** `10-January-2024`
+**Date:** `13-January-2024`
 
 
 ## Description:
@@ -36,7 +36,7 @@ In this section, the expected input and output of the application will be detail
 
 | Case        | Calculation                                            |
 |-------------|--------------------------------------------------------|
-| Test Result | ($Total Score \over Maximum Possible Score$) $ * 100 $ |
+| Test Result | ($Total Score \over Maximum Possible Score$)  * 100    |
 
 ### Remarks:
 * Input validation will be implemented.
